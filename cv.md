@@ -1,5 +1,5 @@
 1. Ihar Petskou
-2. Phone +375445683402
+2. Phone +375445683402, e-mail uropb2787@gmail.com
 3. I have minimal experience in website layout
 4. Skills: html+css
 5. ```function solution(str){
