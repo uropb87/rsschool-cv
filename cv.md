@@ -1,4 +1,4 @@
-# Ihar Petskou
+## Ihar Petskou
 
 ## Contact information:
 E-mail: uropb2787@gmail.com
